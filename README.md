@@ -82,10 +82,22 @@ As fontes e logos são obtidos por projeto, observando origem, licença e permis
 
 ## Exemplos
 
+### Google — Laboratório de ideias com IA (evento fictício)
+
+![Certificado editorial para evento fictício da Google](assets/exemplos/google/certificado-google.png)
+
+[Abrir HTML-fonte](assets/exemplos/google/certificado-google.html) · [Baixar PDF](assets/exemplos/google/certificado-google.pdf) · [Pesquisa, decisões e teste](assets/exemplos/google/decisoes.md)
+
+Este exemplo foi criado por um subagente em uma conversa sem o histórico dos projetos anteriores, usando a skill instalada e o prompt de início deste README. O título, empresa e site foram preenchidos; a direção estética ficou a cargo da skill. Foram apresentadas duas propostas, e o usuário escolheu a primeira, **Editorial aberto**. A rodada seguinte usou o prompt de aprovação e exportação documentado acima.
+
+O HTML abre localmente com os assets da pasta, sem servidor. No GitHub, baixe a pasta ou clone o repositório: a página de código não executa o HTML. Os campos ausentes permanecem como placeholders, e a peça está identificada como estudo fictício, sem vínculo ou endosso da Google e sem validade de certificado.
+
+### Estudos anteriores
+
 - [PODS](assets/exemplos/pods/decisoes.md): fundo claro, contraste serifado/sem serifa, composição central e grafismos discretos.
 - [Vinteum](assets/exemplos/vinteum/decisoes.md): fundo petróleo, Sora, composição à esquerda e interpretação de arcos de energia.
 
-São estudos textuais de decisões, sem certificados nominais ou imagens redistribuídas. Marcas citadas pertencem aos respectivos titulares; este projeto não declara vínculo oficial com elas.
+PODS e Vinteum são estudos textuais de decisões, sem certificados nominais. O exemplo Google inclui template, prévia e PDF fictícios, com proveniência dos recursos e licença tipográfica na própria pasta. Marcas citadas pertencem aos respectivos titulares; este projeto não declara vínculo oficial com elas.
 
 ## Estrutura
 
