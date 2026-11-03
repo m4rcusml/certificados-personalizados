@@ -4,6 +4,8 @@ Skill para Codex que transforma a identidade visual de uma empresa em um templat
 
 O objetivo não é trocar o logo de um diploma pronto: é produzir certificados coerentes com cada marca e diferentes entre si. A abordagem foi consolidada a partir de dois projetos, PODS e Vinteum, documentados em [estudos de composição](#exemplos).
 
+A skill reconhece três pontos de entrada: criar um template, revisar um existente e exportar um modelo aprovado. Cada etapa tem critérios de conclusão; revisões preservam decisões aprovadas e a entrega informa eventuais verificações pendentes. Assim, você pode retomar o trabalho sem repetir toda a pesquisa.
+
 ## O que ela faz
 
 - Pesquisa manuais, logos, fontes e materiais oficiais, distinguindo regras documentadas de observações e decisões de design.

@@ -7,6 +7,14 @@ description: "Crie e refine templates de certificados estilizados a partir da id
 
 Transforme a linguagem visual da empresa em uma composição própria de certificado. O resultado deve parecer concebido para aquela marca: duas empresas podem exigir hierarquias, tipografias e estruturas diferentes. Comece com as decisões do briefing, não com a troca de cores de um diploma padrão.
 
+## Escolha o ponto de entrada
+
+- **Novo template:** comece pela pesquisa e direção.
+- **Template em revisão:** leia o fonte, as decisões aprovadas e o pedido atual; altere os elementos afetados e confira o resultado. Retome a pesquisa apenas se faltar evidência para a mudança.
+- **Template aprovado para exportação:** vá à verificação e aos formatos pedidos, sem reabrir escolhas visuais.
+
+Antes de editar, identifique o fonte que gera a prévia, os assets usados e as saídas afetadas. Reutilize a estrutura e as ferramentas existentes quando atenderem ao pedido. Acrescente dependências ou automações somente se resolverem uma necessidade concreta da entrega.
+
 ## Pesquisa e direção
 
 Reúna título, modalidade, texto, formato, campos variáveis e identidade da empresa. Use placeholders para dados ausentes; pergunte apenas pelo que impede a próxima decisão. Horas, signatários, data de emissão e papel de cada instituição precisam de confirmação ou fonte aplicável. O horário divulgado não determina automaticamente a carga certificável.
@@ -34,3 +42,16 @@ Emissão por CSV e publicação no Drive são etapas posteriores, executadas som
 ## Exemplos de raciocínio
 
 Consulte [PODS](assets/exemplos/pods/decisoes.md) e [Vinteum](assets/exemplos/vinteum/decisoes.md) quando precisar entender como a mesma abordagem produziu soluções distintas. São estudos de composição, não templates obrigatórios nem pacotes oficiais de marca.
+
+## Critérios de conclusão
+
+| Etapa solicitada | Evidência para encerrar |
+|---|---|
+| Pesquisa e direção | Fontes e limitações identificadas; escolhas visuais justificáveis pela marca e pelo briefing. |
+| Propostas | Prévias renderizadas e acessíveis, diferenças de composição explicadas e campos ausentes identificados; aguardar escolha. |
+| Revisão pontual | Fonte e prévia atualizados; elementos afetados conferidos e decisões aprovadas preservadas. |
+| Template final | Aprovação registrada; nomes curtos e longos cabem; formatos pedidos renderizados e conferidos; dependências necessárias incluídas. |
+
+Depois que as verificações pertinentes passarem, entregue a versão solicitada. Abra outra rodada somente se houver uma falha observável ou novo pedido do usuário. Não trate exportação bem-sucedida como prova de fidelidade visual.
+
+Na entrega, indique o que está pronto, como abrir/editar e qualquer pendência que limite o uso. Se uma ferramenta falhar, consulte [exportacao-e-verificacao.md](references/exportacao-e-verificacao.md#limites-do-ambiente) para preservar uma entrega útil sem afirmar verificações não realizadas.
