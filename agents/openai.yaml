@@ -1,0 +1,4 @@
+interface:
+  display_name: "Certificados personalizados"
+  short_description: "Templates de certificados com identidade de marca"
+  default_prompt: "Use $certificados-personalizados para criar um template de certificado baseado na identidade visual da empresa indicada."
