@@ -21,13 +21,13 @@ Reúna título, modalidade, texto, formato, campos variáveis e identidade da em
 
 Leia [pesquisa-de-marca-e-referencias.md](references/pesquisa-de-marca-e-referencias.md) ao pesquisar uma marca ou selecionar referências. Consulte fontes oficiais e apresente links fora do certificado, distinguindo regras documentadas, observações e escolhas de design.
 
-Busque referências de certificados e composição editorial na internet; use Pinterest quando solicitado ou útil e acessível. Apresente uma seleção numerada para preferências. Se o usuário rejeitar a direção, amplie a seleção antes de repetir variações da mesma ideia. Reutilize escolhas já feitas no contexto.
+Busque referências de certificados e composição editorial na internet; use Pinterest quando solicitado ou útil e acessível. Em um novo projeto, apresente primeiro uma seleção visual numerada e aguarde as preferências do usuário antes de compor certificados, salvo se ele já forneceu a direção ou pediu explicitamente que você escolha. Links e descrições sozinhos não substituem as imagens. Se o usuário rejeitar a direção, amplie a seleção antes de repetir variações da mesma ideia. Reutilize escolhas já feitas no contexto.
 
 ## Composição e colaboração
 
 Leia [composicao-e-refinamento.md](references/composicao-e-refinamento.md) para desenvolver as propostas e conduzir as revisões. Cruze as referências escolhidas com elementos reais da marca: símbolos, geometria, tipografia, ritmo, iluminação e espaço. Use as ferramentas e skills de design disponíveis que contribuam para a entrega, sem exigir um plugin específico.
 
-Apresente propostas em HTML/CSS, preferencialmente A4 horizontal quando o briefing não definir outro formato. Textos devem permanecer editáveis e os logos devem ser arquivos oficiais. Mostre prévias visuais, com acesso ao HTML quando possível. A quantidade de propostas depende do briefing; normalmente duas direções realmente distintas são suficientes no início.
+Depois da seleção de referências, apresente propostas em HTML/CSS, preferencialmente A4 horizontal quando o briefing não definir outro formato. Textos devem permanecer editáveis e os logos devem ser arquivos oficiais. Mostre prévias visuais, com acesso ao HTML quando possível. A quantidade depende do briefing; quando houver alternativas, elas devem explorar relações distintas entre atmosfera, tipografia, grafismos e distribuição, não apenas alternar entre uma coluna editorial e um painel lateral.
 
 Aguarde a escolha antes de finalizar um novo design. Durante revisões pontuais, preserve o restante aprovado. Se o usuário pedir mais identidade, reveja a estrutura e os motivos gráficos, não apenas a saturação ou o tamanho do logo. Mantenha um resumo local das decisões aprovadas e pendências para retomar o trabalho sem reconstruir a conversa.
 
@@ -41,16 +41,16 @@ Emissão por CSV e publicação no Drive são etapas posteriores, executadas som
 
 ## Exemplos de raciocínio
 
-Consulte [PODS](assets/exemplos/pods/decisoes.md) e [Vinteum](assets/exemplos/vinteum/decisoes.md) quando precisar entender como a mesma abordagem produziu soluções distintas. São estudos de composição, não templates obrigatórios nem pacotes oficiais de marca.
+Ao desenvolver um novo design, abra as imagens aprovadas de [PODS](assets/exemplos/pods/previa-aprovada.png) e [Vinteum](assets/exemplos/vinteum/previa-aprovada.png) e leia suas [decisões PODS](assets/exemplos/pods/decisoes.md) e [decisões Vinteum](assets/exemplos/vinteum/decisoes.md). Observe como fundo, grafismos, tipografia e espaço trabalham juntos. Reutilize o raciocínio, não o arranjo. São referências de qualidade escolhidas pelo usuário, não manuais de marca ou um estilo universal. O teste Google é histórico de avaliação técnica; foi considerado aquém da personalidade visual desejada e não é referência estética aprovada.
 
 ## Critérios de conclusão
 
 | Etapa solicitada | Evidência para encerrar |
 |---|---|
-| Pesquisa e direção | Fontes e limitações identificadas; escolhas visuais justificáveis pela marca e pelo briefing. |
-| Propostas | Prévias renderizadas e acessíveis, diferenças de composição explicadas e campos ausentes identificados; aguardar escolha. |
+| Pesquisa e direção | Fontes e limitações identificadas; seleção visual apresentada e preferências registradas, ou direção autônoma explicitamente autorizada. |
+| Propostas | Prévias renderizadas e acessíveis, relação com a marca e referências explicada, campos ausentes identificados; aguardar avaliação estética e escolha. |
 | Revisão pontual | Fonte e prévia atualizados; elementos afetados conferidos e decisões aprovadas preservadas. |
-| Template final | Aprovação registrada; nomes curtos e longos cabem; formatos pedidos renderizados e conferidos; dependências necessárias incluídas. |
+| Template final | Aprovação estética e conteúdo registrados; nomes curtos e longos cabem; formatos pedidos renderizados e conferidos; dependências necessárias incluídas. |
 
 Depois que as verificações pertinentes passarem, entregue a versão solicitada. Abra outra rodada somente se houver uma falha observável ou novo pedido do usuário. Não trate exportação bem-sucedida como prova de fidelidade visual.
 

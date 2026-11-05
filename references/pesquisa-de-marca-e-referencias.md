@@ -19,4 +19,6 @@ Pesquise certificados contemporâneos, peças editoriais e materiais da própria
 
 Apresente referências numeradas com link e uma leitura curta: hierarquia, alinhamento, posição dos logos, tratamento do nome, distribuição de assinatura e grafismos. Pergunte quais aspectos agradam quando a seleção for ambígua. Referências orientam princípios, não autorizam reprodução de trabalhos de terceiros.
 
+Monte um painel visual com variedade real de composição, em vez de selecionar somente peças minimalistas semelhantes. Inclua certificados e materiais oficiais da marca, identificando o papel de cada imagem. Use imagens ou capturas permitidas pelas ferramentas disponíveis e links de origem; não publique imagens de terceiros no repositório como assets próprios. Se não conseguir mostrar uma referência, declare a limitação e ofereça uma forma acessível de examiná-la. Aguarde a seleção antes de desenhar, respeitando uma direção já fornecida ou autorização explícita para decidir.
+
 Encerre esta fase com evidências suficientes para justificar uma direção visual e uma lista curta de lacunas reais. Deixe URLs e notas fora do certificado.

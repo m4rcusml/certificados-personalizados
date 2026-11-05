@@ -47,8 +47,9 @@ Abra uma nova conversa no Codex após instalar. Se a skill não aparecer, reinic
 ```text
 Use $certificados-personalizados para criar um template de participação
 para o evento [TÍTULO], baseado na identidade visual da [EMPRESA].
-Pesquise o site [URL] e materiais oficiais. Busque referências e apresente
-duas propostas em HTML A4 horizontal antes de finalizar.
+Pesquise o site [URL] e materiais oficiais. Mostre primeiro um painel visual
+numerado de referências variadas e aguarde minha seleção. Depois cruze
+minhas escolhas com a marca e apresente propostas em HTML A4 horizontal.
 O nome será variável. Reserve um campo de assinatura de [NOME/CARGO].
 Mantenha placeholders para informações ainda não confirmadas.
 ```
@@ -84,22 +85,27 @@ As fontes e logos são obtidos por projeto, observando origem, licença e permis
 
 ## Exemplos
 
-### Google — Laboratório de ideias com IA (evento fictício)
+### Referências de qualidade aprovadas: PODS e Vinteum
 
-![Certificado editorial para evento fictício da Google](assets/exemplos/google/certificado-google.png)
+![Template PODS aprovado](assets/exemplos/pods/previa-aprovada.png)
+
+[PODS — relações visuais e processo](assets/exemplos/pods/decisoes.md): halo verde, contorno fino, centro iluminado e equilíbrio entre logos e grafismos inferiores.
+
+![Template Vinteum aprovado](assets/exemplos/vinteum/previa-aprovada.png)
+
+[Vinteum — relações visuais e processo](assets/exemplos/vinteum/decisoes.md): fundo petróleo, luz curva, geometria em grande escala e hierarquia tipográfica articulada pela cor.
+
+As imagens são prévias dos modelos aprovados com nome variável, sem destinatários reais. O objetivo é compreender a composição, não reproduzir esses layouts para todas as marcas. Recursos e marcas de terceiros conservam seus respectivos direitos.
+
+### Teste histórico: Google (evento fictício)
 
 [Abrir HTML-fonte](assets/exemplos/google/certificado-google.html) · [Baixar PDF](assets/exemplos/google/certificado-google.pdf) · [Pesquisa, decisões e teste](assets/exemplos/google/decisoes.md)
 
-Este exemplo foi criado por um subagente em uma conversa sem o histórico dos projetos anteriores, usando a skill instalada e o prompt de início deste README. O título, empresa e site foram preenchidos; a direção estética ficou a cargo da skill. Foram apresentadas duas propostas, e o usuário escolheu a primeira, **Editorial aberto**. A rodada seguinte usou o prompt de aprovação e exportação documentado acima.
+Este exemplo foi criado por um subagente sem o histórico dos projetos anteriores, usando a versão inicial da skill e o prompt então documentado. Foram apresentadas duas propostas; o usuário escolheu **Editorial aberto**, que passou pela exportação e verificação. Na avaliação posterior, considerou Google, OpenAI e Anthropic abaixo da personalidade visual alcançada por PODS e Vinteum. Esse teste demonstrou o fluxo técnico, mas não validou o padrão estético desejado. Ele permanece como histórico, não como modelo de qualidade recomendado.
 
 O HTML abre localmente com os assets da pasta, sem servidor. No GitHub, baixe a pasta ou clone o repositório: a página de código não executa o HTML. Os campos ausentes permanecem como placeholders, e a peça está identificada como estudo fictício, sem vínculo ou endosso da Google e sem validade de certificado.
 
-### Estudos anteriores
-
-- [PODS](assets/exemplos/pods/decisoes.md): fundo claro, contraste serifado/sem serifa, composição central e grafismos discretos.
-- [Vinteum](assets/exemplos/vinteum/decisoes.md): fundo petróleo, Sora, composição à esquerda e interpretação de arcos de energia.
-
-PODS e Vinteum são estudos textuais de decisões, sem certificados nominais. O exemplo Google inclui template, prévia e PDF fictícios, com proveniência dos recursos e licença tipográfica na própria pasta. Marcas citadas pertencem aos respectivos titulares; este projeto não declara vínculo oficial com elas.
+A revisão da skill passou a pedir seleção de referências antes da composição, comparação visual com os modelos aprovados e avaliação estética separada das verificações técnicas. Isso ainda precisa ser validado em um novo projeto completo. Marcas citadas pertencem aos respectivos titulares; este projeto não declara vínculo oficial com elas.
 
 ## Estrutura
 
