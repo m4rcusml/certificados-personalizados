@@ -15,6 +15,8 @@ Uma paleta extraída do site é uma observação. Um manual vigente tem precedê
 
 ## Referências de composição
 
+Use as [preferências registradas](preferencias-visuais.md) como filtro de curadoria antes de pesquisar. A variedade deve existir dentro de direções com afinidade ao briefing, não ser um mostruário de categorias desconectadas do gosto já conhecido.
+
 Pesquise certificados contemporâneos, peças editoriais e materiais da própria empresa. Pinterest pode ajudar a descobrir composições, mas o pin não é prova de autoria nem fonte de regras da marca. Quando possível, alcance a origem. Use navegador autenticado apenas pelas ferramentas autorizadas; se o acesso exigir login indisponível, relate a limitação e siga com fontes acessíveis.
 
 Apresente referências numeradas com link e uma leitura curta: hierarquia, alinhamento, posição dos logos, tratamento do nome, distribuição de assinatura e grafismos. Pergunte quais aspectos agradam quando a seleção for ambígua. Referências orientam princípios, não autorizam reprodução de trabalhos de terceiros.

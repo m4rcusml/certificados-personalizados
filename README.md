@@ -6,6 +6,8 @@ O objetivo não é trocar o logo de um diploma pronto: é produzir certificados 
 
 A skill reconhece três pontos de entrada: criar um template, revisar um existente e exportar um modelo aprovado. Cada etapa tem critérios de conclusão; revisões preservam decisões aprovadas e a entrega informa eventuais verificações pendentes. Assim, você pode retomar o trabalho sem repetir toda a pesquisa.
 
+A pesquisa padrão incorpora as [preferências visuais registradas](references/preferencias-visuais.md) a partir dos modelos PODS e Vinteum: atmosfera, acabamento institucional e integração entre identidade, grafismos e texto. Esse é o gosto que originou a skill, não um padrão universal; um novo briefing pode direcioná-la para outra estética. Referências já rejeitadas também são registradas para evitar repetir a mesma seleção.
+
 ## O que ela faz
 
 - Pesquisa manuais, logos, fontes e materiais oficiais, distinguindo regras documentadas de observações e decisões de design.

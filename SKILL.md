@@ -17,6 +17,8 @@ Antes de editar, identifique o fonte que gera a prévia, os assets usados e as s
 
 ## Pesquisa e direção
 
+Antes de montar uma seleção, leia [preferencias-visuais.md](references/preferencias-visuais.md) e examine os modelos aprovados ali indicados. O arquivo registra o gosto que originou esta skill, não regras universais de design. Use-o como direção inicial na ausência de outro briefing; preferências expressas pelo usuário atual prevalecem.
+
 Reúna título, modalidade, texto, formato, campos variáveis e identidade da empresa. Use placeholders para dados ausentes; pergunte apenas pelo que impede a próxima decisão. Horas, signatários, data de emissão e papel de cada instituição precisam de confirmação ou fonte aplicável. O horário divulgado não determina automaticamente a carga certificável.
 
 Leia [pesquisa-de-marca-e-referencias.md](references/pesquisa-de-marca-e-referencias.md) ao pesquisar uma marca ou selecionar referências. Consulte fontes oficiais e apresente links fora do certificado, distinguindo regras documentadas, observações e escolhas de design.
