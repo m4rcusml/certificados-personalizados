@@ -1,5 +1,7 @@
 # PODS: delicadeza e composição central
 
+A imagem pública preserva o design escolhido, com textos substituídos por lorem ipsum. Os dados descritos neste estudo pertencem ao histórico do processo, não ao conteúdo demonstrativo da imagem.
+
 Estudo retrospectivo de um certificado desenvolvido em colaboração. Não é manual oficial nem autorização de uso da marca.
 
 ![Composição PODS aprovada pelo usuário](previa-aprovada.png)

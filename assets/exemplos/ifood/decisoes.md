@@ -1,5 +1,7 @@
 # iFood — Tecnologia que conecta
 
+Na versão pública atual, os textos do HTML, PDF e PNG foram substituídos por lorem ipsum, preservando a composição, o campo de logo pendente e o aviso de estudo fictício. As notas abaixo documentam o teste original.
+
 Evento fictício para testar a skill. O exemplo não tem validade de emissão nem vínculo com o iFood. Datas, horas, local, signatário e logo são placeholders; não foram confirmados ou inventados.
 
 ![Proposta escolhida pelo usuário](certificado-ifood-template.png)

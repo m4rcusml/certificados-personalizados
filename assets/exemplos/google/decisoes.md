@@ -1,5 +1,7 @@
 # Google — Laboratório de ideias com IA
 
+Na versão pública atual, os textos do HTML, PDF e PNG foram substituídos por lorem ipsum, preservando o layout, logo e aviso de estudo fictício. As notas abaixo documentam o processo anterior à substituição.
+
 ## Avaliação posterior
 
 Após a escolha e exportação, o usuário considerou este resultado abaixo da personalidade visual dos modelos PODS e Vinteum. O caso demonstra a execução técnica da versão inicial da skill, mas não é referência estética aprovada. A skill foi revista para começar por seleção visual de referências e avaliar a integração entre atmosfera, grafismos, tipografia e espaço antes da finalização.

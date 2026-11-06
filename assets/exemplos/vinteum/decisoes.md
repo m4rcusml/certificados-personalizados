@@ -1,5 +1,7 @@
 # Vinteum: composição editorial escura
 
+A imagem pública preserva o design escolhido, com textos substituídos por lorem ipsum. O estudo descreve as decisões do processo; não fornece dados para emissão de novos certificados.
+
 Estudo retrospectivo de um certificado desenvolvido em colaboração. Consulte o manual atual antes de usar os recursos da marca.
 
 ![Composição Vinteum aprovada pelo usuário](previa-aprovada.png)

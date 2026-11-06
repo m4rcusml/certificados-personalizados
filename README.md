@@ -87,6 +87,8 @@ As fontes e logos são obtidos por projeto, observando origem, licença e permis
 
 ## Exemplos
 
+Os textos dos certificados publicados abaixo e dos respectivos arquivos de demonstração foram substituídos por **lorem ipsum**. Logos, composição e tipografia foram preservados. Os avisos de estudo fictício permanecem visíveis; o conteúdo dos eventos é descrito apenas na documentação do processo.
+
 ### Referências de qualidade aprovadas: PODS e Vinteum
 
 ![Template PODS aprovado](assets/exemplos/pods/previa-aprovada.png)
@@ -97,7 +99,7 @@ As fontes e logos são obtidos por projeto, observando origem, licença e permis
 
 [Vinteum — relações visuais e processo](assets/exemplos/vinteum/decisoes.md): fundo petróleo, luz curva, geometria em grande escala e hierarquia tipográfica articulada pela cor.
 
-As imagens são prévias dos modelos aprovados com nome variável, sem destinatários reais. O objetivo é compreender a composição, não reproduzir esses layouts para todas as marcas. Recursos e marcas de terceiros conservam seus respectivos direitos.
+As imagens mostram a composição dos modelos aprovados com texto de demonstração, sem destinatários reais. O objetivo é compreender a composição, não reproduzir esses layouts para todas as marcas. Recursos e marcas de terceiros conservam seus respectivos direitos.
 
 ### Teste com seleção de referências: iFood (evento fictício)
 
@@ -105,7 +107,7 @@ As imagens são prévias dos modelos aprovados com nome variável, sem destinat�
 
 [HTML](assets/exemplos/ifood/certificado-ifood-template.html) · [PDF](assets/exemplos/ifood/certificado-ifood-template.pdf) · [Processo, escolha e limitações](assets/exemplos/ifood/decisoes.md)
 
-O usuário selecionou referências de volume e geometria periférica e, entre duas propostas, preferiu a clara centralizada por ter “mais cara de certificado”. Este teste percorreu a seleção de referências, a composição e a escolha estética. Logo e informações não confirmados continuam identificados como placeholders; Segoe UI é uma substituição declarada. A aprovação da composição não significa aprovação oficial da marca.
+O usuário selecionou referências de volume e geometria periférica e, entre duas propostas, preferiu a clara centralizada por ter “mais cara de certificado”. Este teste percorreu a seleção de referências, a composição e a escolha estética. Os arquivos públicos usam lorem ipsum e mantêm o campo do logo pendente; Segoe UI é uma substituição declarada. A aprovação da composição não significa aprovação oficial da marca.
 
 ### Teste histórico: Google (evento fictício)
 
@@ -113,7 +115,7 @@ O usuário selecionou referências de volume e geometria periférica e, entre du
 
 Este exemplo foi criado por um subagente sem o histórico dos projetos anteriores, usando a versão inicial da skill e o prompt então documentado. Foram apresentadas duas propostas; o usuário escolheu **Editorial aberto**, que passou pela exportação e verificação. Na avaliação posterior, considerou Google, OpenAI e Anthropic abaixo da personalidade visual alcançada por PODS e Vinteum. Esse teste demonstrou o fluxo técnico, mas não validou o padrão estético desejado. Ele permanece como histórico, não como modelo de qualidade recomendado.
 
-O HTML abre localmente com os assets da pasta, sem servidor. No GitHub, baixe a pasta ou clone o repositório: a página de código não executa o HTML. Os campos ausentes permanecem como placeholders, e a peça está identificada como estudo fictício, sem vínculo ou endosso da Google e sem validade de certificado.
+O HTML abre localmente com os assets da pasta, sem servidor. No GitHub, baixe a pasta ou clone o repositório: a página de código não executa o HTML. A versão pública usa lorem ipsum e está identificada como estudo fictício, sem vínculo ou endosso da Google e sem validade de certificado.
 
 A revisão da skill passou a pedir seleção de referências antes da composição, comparação visual com os modelos aprovados e avaliação estética separada das verificações técnicas. Isso ainda precisa ser validado em um novo projeto completo. Marcas citadas pertencem aos respectivos titulares; este projeto não declara vínculo oficial com elas.
 
