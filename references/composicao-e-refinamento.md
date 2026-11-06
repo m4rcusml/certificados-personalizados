@@ -16,6 +16,7 @@ Examine a prévia antes de apresentá-la:
 - Se o logo for ocultado, que decisões de composição ainda remetem à linguagem pesquisada? Apenas a paleta raramente explica a direção completa.
 - Os grafismos participam da hierarquia e do espaço ou poderiam ser removidos sem mudar a ideia? Elementos decorativos precisam de uma função na composição.
 - A relação entre nome, título, corpo e assinaturas forma um conjunto, ou há grandes vazios sem intenção e blocos desconectados?
+- A hierarquia comunica reconhecimento e participação, com presença de certificado, ou a identidade do evento domina como em um cartaz promocional? Preserve o papel do documento mesmo em uma direção expressiva.
 - Quando há alternativas, elas diferem em lógica de composição, não apenas em cor, alinhamento ou presença de uma barra lateral?
 
 Essas perguntas orientam revisão, não uma nota automática de beleza. Não acrescente ornamentos para satisfazê-las se a marca exigir contenção. Mostre ao usuário a interpretação proposta e pergunte se ela tem a personalidade desejada; legibilidade e ausência de cortes não demonstram essa aprovação.

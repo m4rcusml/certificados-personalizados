@@ -99,6 +99,14 @@ As fontes e logos são obtidos por projeto, observando origem, licença e permis
 
 As imagens são prévias dos modelos aprovados com nome variável, sem destinatários reais. O objetivo é compreender a composição, não reproduzir esses layouts para todas as marcas. Recursos e marcas de terceiros conservam seus respectivos direitos.
 
+### Teste com seleção de referências: iFood (evento fictício)
+
+![Template fictício iFood escolhido](assets/exemplos/ifood/certificado-ifood-template.png)
+
+[HTML](assets/exemplos/ifood/certificado-ifood-template.html) · [PDF](assets/exemplos/ifood/certificado-ifood-template.pdf) · [Processo, escolha e limitações](assets/exemplos/ifood/decisoes.md)
+
+O usuário selecionou referências de volume e geometria periférica e, entre duas propostas, preferiu a clara centralizada por ter “mais cara de certificado”. Este teste percorreu a seleção de referências, a composição e a escolha estética. Logo e informações não confirmados continuam identificados como placeholders; Segoe UI é uma substituição declarada. A aprovação da composição não significa aprovação oficial da marca.
+
 ### Teste histórico: Google (evento fictício)
 
 [Abrir HTML-fonte](assets/exemplos/google/certificado-google.html) · [Baixar PDF](assets/exemplos/google/certificado-google.pdf) · [Pesquisa, decisões e teste](assets/exemplos/google/decisoes.md)
