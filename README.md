@@ -91,11 +91,11 @@ Os textos dos certificados publicados abaixo e dos respectivos arquivos de demon
 
 ### Referências de qualidade aprovadas: PODS e Vinteum
 
-![Template PODS aprovado](assets/exemplos/pods/previa-aprovada.png)
+![Template PODS aprovado](assets/exemplos/pods/previa-lorem-ipsum.png)
 
 [PODS — relações visuais e processo](assets/exemplos/pods/decisoes.md): halo verde, contorno fino, centro iluminado e equilíbrio entre logos e grafismos inferiores.
 
-![Template Vinteum aprovado](assets/exemplos/vinteum/previa-aprovada.png)
+![Template Vinteum aprovado](assets/exemplos/vinteum/previa-lorem-ipsum.png)
 
 [Vinteum — relações visuais e processo](assets/exemplos/vinteum/decisoes.md): fundo petróleo, luz curva, geometria em grande escala e hierarquia tipográfica articulada pela cor.
 
@@ -103,7 +103,7 @@ As imagens mostram a composição dos modelos aprovados com texto de demonstraç
 
 ### Teste com seleção de referências: iFood (evento fictício)
 
-![Template fictício iFood escolhido](assets/exemplos/ifood/certificado-ifood-template.png)
+![Template fictício iFood escolhido](assets/exemplos/ifood/certificado-ifood-lorem-ipsum.png)
 
 [HTML](assets/exemplos/ifood/certificado-ifood-template.html) · [PDF](assets/exemplos/ifood/certificado-ifood-template.pdf) · [Processo, escolha e limitações](assets/exemplos/ifood/decisoes.md)
 
@@ -130,3 +130,4 @@ python <caminho-do-skill-creator>/scripts/quick_validate.py <caminho-da-skill>
 ```
 
 O validador verifica a estrutura, não a qualidade estética. Esta depende de pesquisa, aprovação e inspeção das saídas.
+
